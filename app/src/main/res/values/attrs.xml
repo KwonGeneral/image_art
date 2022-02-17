@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  파이차트  -->
+    <color name="semiGray">#cecfd6</color>
+    <declare-styleable name="PieChart">
+        <attr format="string" name="popupText"/>
+        <attr format="color" name="centerColor"/>
+        <attr format="boolean" name="showPopup"/>
+        <attr format="boolean" name="showPercentage"/>
+        <attr format="integer" name="animationDuration"/>
+    </declare-styleable>
+</resources>

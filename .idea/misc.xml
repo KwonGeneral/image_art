@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ktw/.gradle/caches/transforms-3/a7dc1f0eca045607df1db4f8d2490f39/transformed/jetified-ClickablePieChart-1.0.9/res/drawable/circle_indicator.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ktw/.gradle/caches/transforms-3/a7dc1f0eca045607df1db4f8d2490f39/transformed/jetified-ClickablePieChart-1.0.9/res/drawable/ic_triangle.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ktw/.gradle/caches/transforms-3/a7dc1f0eca045607df1db4f8d2490f39/transformed/jetified-ClickablePieChart-1.0.9/res/layout/item_legend.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ktw/.gradle/caches/transforms-3/a7dc1f0eca045607df1db4f8d2490f39/transformed/jetified-ClickablePieChart-1.0.9/res/layout/popup_slice.xml" value="0.2046875" />
+        <entry key="..\:/Users/ktw/Desktop/MyGitHubProject/image_art/app/src/main/res/drawable/circle_indicator.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ktw/Desktop/MyGitHubProject/image_art/app/src/main/res/drawable/ic_triangle.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ktw/Desktop/MyGitHubProject/image_art/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ktw/Desktop/MyGitHubProject/image_art/app/src/main/res/layout/item_legend.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ktw/Desktop/MyGitHubProject/image_art/app/src/main/res/layout/popup_slice.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
